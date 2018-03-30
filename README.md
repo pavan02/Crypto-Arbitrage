@@ -44,4 +44,6 @@ It is inspired by the difficulty in depositing fiat currencies to the internatio
 
 Other columns are self explanatory.
 
+Note: arbitrage_data.csv - Acts as data storage, output is dumped to this file (appended) each time the script is run.
+
 Happy Trading :-)
