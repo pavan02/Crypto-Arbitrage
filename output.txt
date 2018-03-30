@@ -1,0 +1,36 @@
+pavan@pavan-Inspiron-5547:~/Desktop/python scripts Cryptocurency$ python3 arbitrage_crypto.py crypto1.xlsx 
+/home/pavan/Desktop/python scripts Cryptocurency/crypto1.xlsx
+CURRENT_DATE_AND_TIME    CUR    BUY SOURCE      BUYPRICE  SELL SOURCE      SELLPRICE    % DIFFERENCE    FUND
+-----------------------  -----  ------------  ----------  -------------  -----------  --------------  ------
+30/Mar/2018: 03:55 PM    XRP    Kraken            33.054  coindelta            36.68          10.969  -9.885
+30/Mar/2018: 03:55 PM    XRP    bitfinex          33.106  coindelta            36.68          10.794  -9.743
+30/Mar/2018: 03:55 PM    XRP    Kraken            33.054  koinex               36.3            9.82   -8.942
+30/Mar/2018: 03:55 PM    XRP    bitfinex          33.106  koinex               36.3            9.647  -8.798
+30/Mar/2018: 03:55 PM    XRP    cex               33.888  coindelta            36.68           8.238  -7.611
+30/Mar/2018: 03:55 PM    XRP    cex               33.888  koinex               36.3            7.116  -6.644
+30/Mar/2018: 03:55 PM    XRP    Bittrex           34.609  coindelta            36.68           5.983  -5.645
+30/Mar/2018: 03:55 PM    XRP    exmo              34.621  coindelta            36.68           5.948  -5.614
+30/Mar/2018: 03:55 PM    XRP    Bittrex           34.609  koinex               36.3            4.885  -4.658
+30/Mar/2018: 03:55 PM    XRP    exmo              34.621  koinex               36.3            4.85   -4.626
+30/Mar/2018: 03:55 PM    XRP    binance           36.411  coindelta            36.68           0.739  -0.734
+30/Mar/2018: 03:55 PM    XRP    binance           36.411  koinex               36.3           -0.305   0.306
+
+CURRENT_DATE_AND_TIME    CUR    BUY SOURCE      BUYPRICE  SELL SOURCE      SELLPRICE    % DIFFERENCE    FUND
+-----------------------  -----  ------------  ----------  -------------  -----------  --------------  ------
+30/Mar/2018: 03:55 PM    ETH    Kraken           25741.5  coindelta            28500          10.716  -9.679
+30/Mar/2018: 03:55 PM    ETH    bitfinex         25806    coindelta            28500          10.439  -9.453
+30/Mar/2018: 03:55 PM    ETH    Kraken           25741.5  koinex               28393          10.3    -9.339
+30/Mar/2018: 03:55 PM    ETH    bitfinex         25806    koinex               28393          10.025  -9.111
+30/Mar/2018: 03:55 PM    ETH    cex              26492.9  coindelta            28500           7.576  -7.042
+30/Mar/2018: 03:55 PM    ETH    cex              26492.9  koinex               28393           7.172  -6.692
+30/Mar/2018: 03:55 PM    ETH    binance          26888.9  coindelta            28500           5.992  -5.653
+30/Mar/2018: 03:55 PM    ETH    binance          26888.9  koinex               28393           5.594  -5.297
+30/Mar/2018: 03:55 PM    ETH    Bittrex          27021    coindelta            28500           5.474  -5.19
+30/Mar/2018: 03:55 PM    ETH    exmo             27117.2  coindelta            28500           5.099  -4.852
+30/Mar/2018: 03:55 PM    ETH    Bittrex          27021    koinex               28393           5.078  -4.832
+30/Mar/2018: 03:55 PM    ETH    exmo             27117.2  koinex               28393           4.705  -4.493
+
+CURRENT_DATE_AND_TIME    CUR    BUY SOURCE      BUYPRICE  SELL SOURCE      SELLPRICE    % DIFFERENCE    FUND
+-----------------------  -----  ------------  ----------  -------------  -----------  --------------  ------
+30/Mar/2018: 03:55 PM    QTUM   bitfinex         934.473  coindelta             1006           7.654  -7.11
+30/Mar/2018: 03:55 PM    QTUM   binance         1027.2    coindelta             1006          -2.064   2.108
