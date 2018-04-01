@@ -19,7 +19,7 @@ emailid_sendfrom = 'sample2@example.com'
 
 password_sendfrom = 'sendfrompassword'
 
-Note: This is to send email summary if arbitrage > 25% or Fund >=0%. Comment or remove send email function call in the code if you do not wish recieve emails.
+Note: This is to send email summary if arbitrage > 25% or Fund >=0%. Comment or remove send email function call in the code if you do not wish to recieve emails.
 # Running 
 
 $python3 arbitrage_crypto.py crypto1.xlsx 
